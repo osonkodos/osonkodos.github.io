@@ -1,0 +1,165 @@
+.index {
+    text-align: center;
+    font-family: "Courier New", monospace;
+    color: green;
+    background-color: black;
+}
+
+.cv {
+    font-family: "Arial", sans-serif;
+    color: black;
+    background-color: mintcream;
+}
+
+.front-page-link {
+    padding: 20px;
+    color: green;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.front-page-link:hover {
+  color: limegreen;
+}
+
+#front-page-top-container {
+    margin-top: 20%;
+    position: relative;
+    font-size: 1.5rem;
+}
+
+p {
+    margin: 0px;
+    padding: 0px;
+}
+
+.profile-pic {
+    margin: auto;
+    display: block;
+    padding-bottom: 20px
+
+}
+
+h1 {
+    margin: auto;
+    width: 800px;
+    text-align: center;
+}
+
+.category {
+    color: salmon;
+    width: 800px;
+    text-align: center;
+    margin: auto;
+    font-family: "Arial Black", sans-serif;
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+}
+
+.cv-header {
+    margin: auto;
+    width: 800px;
+
+}
+
+.entry {
+    margin: auto;
+    width: 800px;
+    text-align: justify;
+
+}
+
+.entry-link {
+    color: MidnightBlue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.job-title {
+    font-weight: bold;
+    margin: auto;
+    width: 800px;
+    color: MidnightBlue;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.job-place, .job-term, .job-tasks{
+    margin: auto;
+    width: 800px;
+
+}
+
+.job-place {
+    font-weight: bold;
+}
+
+
+
+.entry-link:hover {
+    color: black;
+
+}
+
+.aboutme {
+    font-family: "Arial", sans-serif;
+    color: black;
+    background-color: white;
+    text-align: justify;
+}
+
+.aboutme-link {
+    position: relative;
+    color: salmon;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.aboutme-header, .hobby {
+    width: 800px;
+    margin: auto;
+}
+
+.hobby-title-right {
+    text-align: right;
+    border: outset;
+    border-width: 2px 2px 5px 2px;
+    background-color: ghostwhite;
+    font-size: 1.5rem;
+    color: indianred;
+}
+
+.hobby-title-left {
+    text-align: left;
+    border: outset;
+    border-width: 2px 2px 5px 2px;
+    background-color: aliceblue;
+    font-size: 1.5rem;
+    color: indianred;
+}
+
+.aboutme-link:hover {
+    position: relative;
+    color: indianred;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
