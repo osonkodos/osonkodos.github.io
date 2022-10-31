@@ -126,6 +126,7 @@ p {
 .sticker {
     border-radius: 10px 60px;
     padding: 20px 10px 10px 10px;
+    margin-bottom: 40px;
 }
 
 hr {
